@@ -1,0 +1,41 @@
+/* Nav Bar Styling */
+ul {
+    background-color: teal;
+}
+
+.brand-logo {
+    background-color: teal;
+}
+
+.nav-wrapper {
+    background-color: teal;
+}
+
+
+/* About Me Heading */
+.biosection h1 {
+   color: teal; 
+   font-size: 3.2rem;
+}
+
+
+/* Profile Picture */
+img {
+    margin-right: 0;
+    padding: 10px;
+    width: 500px;
+
+}
+/* Footer */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#666666;
+    color: white;
+    text-align: center;
+   }
+.footer h3{
+    font-size: 1.92rem;
+}
